@@ -2,9 +2,9 @@
 
 Meteo is a curses based, TUI client for Canadian weather. 
 
-![alt text](https://github.com/jmi06/meteo/raw/master/images/alert.png "Alert example")
+![alt text](https://github.com/jmi06/meteo/blob/main/images/alert.png "Alert example")
 
-![alt text](https://github.com/jmi06/meteo/raw/master/images/currentconditions.png "Alert example")
+![alt text](https://github.com/jmi06/meteo/blob/main/images/currentconditions.png "Alert example")
 
 ```
 
